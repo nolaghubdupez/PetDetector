@@ -211,7 +211,7 @@ end
 local title = Instance.new("TextLabel", frame)
 title.Size = UDim2.new(1, 0, 0, 28)
 title.BackgroundTransparency = 1
-title.Text = "Yawi Hub X"
+title.Text = "Muji Hub X"
 title.Font = Enum.Font.FredokaOne
 title.TextSize = 17
 title.TextColor3 = Color3.fromRGB(255, 225, 130)
@@ -285,7 +285,7 @@ local credit = Instance.new("TextLabel", frame)
 credit.Size = UDim2.new(1, 0, 0, 18)
 credit.Position = UDim2.new(0, 0, 0, 260)
 credit.BackgroundTransparency = 1
-credit.Text = "Tiktok: @yawiyawiyawiz1"
+credit.Text = "Tiktok: @Growagarden041"
 credit.Font = Enum.Font.FredokaOne
 credit.TextSize = 12
 credit.TextColor3 = Color3.fromRGB(180, 180, 180)
